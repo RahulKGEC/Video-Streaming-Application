@@ -13,6 +13,11 @@ To run this project run
   npm run start
 ```
 
+### Technologies used:
+- FFmpeg
+- Node.js
+- Express.js
+- React.js
 
 ## Features
 
